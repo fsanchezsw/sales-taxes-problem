@@ -1,6 +1,9 @@
 # SalesTaxes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.24.
+## Production server
+
+The app is hosted by GitHub and you can visit it on https://fsanchezsw.github.io/sales-taxes-problem/
 
 ## Development server
 
