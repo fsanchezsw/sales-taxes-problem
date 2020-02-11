@@ -1,0 +1,26 @@
+div.content { padding: 24px 48px; }
+
+h2 { text-align: center; }
+
+mat-card {
+    width: 330px;
+    float: left;
+    margin-bottom: 14px;
+}
+
+mat-card + mat-card { margin-left: 14px; }
+
+mat-list-item h1 { font-weight: bold !important; }
+
+mat-list h3 > span { font-weight: 400; }
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button, input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance:textfield;
+}
